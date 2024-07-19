@@ -1,0 +1,41 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]eleases/
+[Rr]eleasesPublic/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Uncomment if you have tasks that create the project's documentation
+# *.docx
+# *.doc
+# *.pdf
+
+# Environment files
+*.env
+
+# Log files
+*.log
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Node modules
+node_modules/
+
+# Rider IDE
+.idea/
+
+# VS Code settings
+.vscode/
+
+# OS generated files
+.DS_Store

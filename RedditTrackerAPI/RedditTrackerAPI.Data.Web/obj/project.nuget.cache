@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "a/KHoKlOAf7PjcMdRoHwu/dm2ehZ8Ppq6T/Jc3l9jZyjHkIcvZMlwpMulD/VL7yShPS2kSkU0Zge4V/R3lQd7w==",
+  "success": true,
+  "projectFilePath": "C:\\Personal Projects\\RedditTracker\\RedditTrackerAPI\\RedditTrackerAPI.Data.Web\\RedditTrackerAPI.Data.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\klopf\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\klopf\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\klopf\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

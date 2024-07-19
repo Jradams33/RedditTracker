@@ -1,0 +1,6 @@
+@RedditTrackerAPI_HostAddress = http://localhost:5100
+
+GET {{RedditTrackerAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

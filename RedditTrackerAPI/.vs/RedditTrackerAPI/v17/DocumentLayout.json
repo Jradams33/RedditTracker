@@ -1,0 +1,315 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Personal Projects\\RedditTracker\\RedditTrackerAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9024010C-04E1-4563-982B-6BE8537C4C05}|RedditTrackerAPI\\RedditTrackerAPI.csproj|c:\\personal projects\\reddittracker\\reddittrackerapi\\reddittrackerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9024010C-04E1-4563-982B-6BE8537C4C05}|RedditTrackerAPI\\RedditTrackerAPI.csproj|solutionrelative:reddittrackerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9024010C-04E1-4563-982B-6BE8537C4C05}|RedditTrackerAPI\\RedditTrackerAPI.csproj|c:\\personal projects\\reddittracker\\reddittrackerapi\\reddittrackerapi\\models\\updatesubredditdatarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9024010C-04E1-4563-982B-6BE8537C4C05}|RedditTrackerAPI\\RedditTrackerAPI.csproj|solutionrelative:reddittrackerapi\\models\\updatesubredditdatarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25595C32-1C90-439E-90F4-25A5548B2A61}|RedditTrackerAPI.Data.Sql\\RedditTrackerAPI.Data.Sql.csproj|c:\\personal projects\\reddittracker\\reddittrackerapi\\reddittrackerapi.data.sql\\repositories\\subredditrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25595C32-1C90-439E-90F4-25A5548B2A61}|RedditTrackerAPI.Data.Sql\\RedditTrackerAPI.Data.Sql.csproj|solutionrelative:reddittrackerapi.data.sql\\repositories\\subredditrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2686BA3-C17C-4897-890B-55EF488BD913}|RedditTrackerAPI.Data\\RedditTrackerAPI.Data.csproj|c:\\personal projects\\reddittracker\\reddittrackerapi\\reddittrackerapi.data\\interfaces\\services\\iredditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2686BA3-C17C-4897-890B-55EF488BD913}|RedditTrackerAPI.Data\\RedditTrackerAPI.Data.csproj|solutionrelative:reddittrackerapi.data\\interfaces\\services\\iredditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9024010C-04E1-4563-982B-6BE8537C4C05}|RedditTrackerAPI\\RedditTrackerAPI.csproj|c:\\personal projects\\reddittracker\\reddittrackerapi\\reddittrackerapi\\middleware\\unhandledexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9024010C-04E1-4563-982B-6BE8537C4C05}|RedditTrackerAPI\\RedditTrackerAPI.csproj|solutionrelative:reddittrackerapi\\middleware\\unhandledexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2686BA3-C17C-4897-890B-55EF488BD913}|RedditTrackerAPI.Data\\RedditTrackerAPI.Data.csproj|c:\\personal projects\\reddittracker\\reddittrackerapi\\reddittrackerapi.data\\dtos\\redditapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2686BA3-C17C-4897-890B-55EF488BD913}|RedditTrackerAPI.Data\\RedditTrackerAPI.Data.csproj|solutionrelative:reddittrackerapi.data\\dtos\\redditapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CF393-1334-4688-84F6-16AA04B4D733}|RedditTrackerAPI.Data.Web\\RedditTrackerAPI.Data.Web.csproj|c:\\personal projects\\reddittracker\\reddittrackerapi\\reddittrackerapi.data.web\\repositories\\redditrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CF393-1334-4688-84F6-16AA04B4D733}|RedditTrackerAPI.Data.Web\\RedditTrackerAPI.Data.Web.csproj|solutionrelative:reddittrackerapi.data.web\\repositories\\redditrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9024010C-04E1-4563-982B-6BE8537C4C05}|RedditTrackerAPI\\RedditTrackerAPI.csproj|c:\\personal projects\\reddittracker\\reddittrackerapi\\reddittrackerapi\\controllers\\subredditcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9024010C-04E1-4563-982B-6BE8537C4C05}|RedditTrackerAPI\\RedditTrackerAPI.csproj|solutionrelative:reddittrackerapi\\controllers\\subredditcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2686BA3-C17C-4897-890B-55EF488BD913}|RedditTrackerAPI.Data\\RedditTrackerAPI.Data.csproj|c:\\personal projects\\reddittracker\\reddittrackerapi\\reddittrackerapi.data\\interfaces\\repositories\\isubredditrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2686BA3-C17C-4897-890B-55EF488BD913}|RedditTrackerAPI.Data\\RedditTrackerAPI.Data.csproj|solutionrelative:reddittrackerapi.data\\interfaces\\repositories\\isubredditrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9B4D45-CE27-4BA0-B066-463604D29157}|RedditTrackerAPI.Services\\RedditTrackerAPI.Services.csproj|c:\\personal projects\\reddittracker\\reddittrackerapi\\reddittrackerapi.services\\services\\redditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF9B4D45-CE27-4BA0-B066-463604D29157}|RedditTrackerAPI.Services\\RedditTrackerAPI.Services.csproj|solutionrelative:reddittrackerapi.services\\services\\redditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2686BA3-C17C-4897-890B-55EF488BD913}|RedditTrackerAPI.Data\\RedditTrackerAPI.Data.csproj|c:\\personal projects\\reddittracker\\reddittrackerapi\\reddittrackerapi.data\\entities\\subredditentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2686BA3-C17C-4897-890B-55EF488BD913}|RedditTrackerAPI.Data\\RedditTrackerAPI.Data.csproj|solutionrelative:reddittrackerapi.data\\entities\\subredditentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2686BA3-C17C-4897-890B-55EF488BD913}|RedditTrackerAPI.Data\\RedditTrackerAPI.Data.csproj|c:\\personal projects\\reddittracker\\reddittrackerapi\\reddittrackerapi.data\\entities\\subreddittopicentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2686BA3-C17C-4897-890B-55EF488BD913}|RedditTrackerAPI.Data\\RedditTrackerAPI.Data.csproj|solutionrelative:reddittrackerapi.data\\entities\\subreddittopicentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9024010C-04E1-4563-982B-6BE8537C4C05}|RedditTrackerAPI\\RedditTrackerAPI.csproj|c:\\personal projects\\reddittracker\\reddittrackerapi\\reddittrackerapi\\models\\createnewsubredditrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9024010C-04E1-4563-982B-6BE8537C4C05}|RedditTrackerAPI\\RedditTrackerAPI.csproj|solutionrelative:reddittrackerapi\\models\\createnewsubredditrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9024010C-04E1-4563-982B-6BE8537C4C05}|RedditTrackerAPI\\RedditTrackerAPI.csproj|c:\\personal projects\\reddittracker\\reddittrackerapi\\reddittrackerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9024010C-04E1-4563-982B-6BE8537C4C05}|RedditTrackerAPI\\RedditTrackerAPI.csproj|solutionrelative:reddittrackerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2686BA3-C17C-4897-890B-55EF488BD913}|RedditTrackerAPI.Data\\RedditTrackerAPI.Data.csproj|c:\\personal projects\\reddittracker\\reddittrackerapi\\reddittrackerapi.data\\interfaces\\repositories\\iredditrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2686BA3-C17C-4897-890B-55EF488BD913}|RedditTrackerAPI.Data\\RedditTrackerAPI.Data.csproj|solutionrelative:reddittrackerapi.data\\interfaces\\repositories\\iredditrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2686BA3-C17C-4897-890B-55EF488BD913}|RedditTrackerAPI.Data\\RedditTrackerAPI.Data.csproj|c:\\personal projects\\reddittracker\\reddittrackerapi\\reddittrackerapi.data\\dtos\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2686BA3-C17C-4897-890B-55EF488BD913}|RedditTrackerAPI.Data\\RedditTrackerAPI.Data.csproj|solutionrelative:reddittrackerapi.data\\dtos\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2686BA3-C17C-4897-890B-55EF488BD913}|RedditTrackerAPI.Data\\RedditTrackerAPI.Data.csproj|c:\\personal projects\\reddittracker\\reddittrackerapi\\reddittrackerapi.data\\reddittrackerapi.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B2686BA3-C17C-4897-890B-55EF488BD913}|RedditTrackerAPI.Data\\RedditTrackerAPI.Data.csproj|solutionrelative:reddittrackerapi.data\\reddittrackerapi.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 298,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SubredditTopicEntity.cs",
+              "DocumentMoniker": "C:\\Personal Projects\\RedditTracker\\RedditTrackerAPI\\RedditTrackerAPI.Data\\Entities\\SubredditTopicEntity.cs",
+              "RelativeDocumentMoniker": "RedditTrackerAPI.Data\\Entities\\SubredditTopicEntity.cs",
+              "ToolTip": "C:\\Personal Projects\\RedditTracker\\RedditTrackerAPI\\RedditTrackerAPI.Data\\Entities\\SubredditTopicEntity.cs",
+              "RelativeToolTip": "RedditTrackerAPI.Data\\Entities\\SubredditTopicEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T17:50:16.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateSubredditDataRequest.cs",
+              "DocumentMoniker": "C:\\Personal Projects\\RedditTracker\\RedditTrackerAPI\\RedditTrackerAPI\\Models\\UpdateSubredditDataRequest.cs",
+              "RelativeDocumentMoniker": "RedditTrackerAPI\\Models\\UpdateSubredditDataRequest.cs",
+              "ToolTip": "C:\\Personal Projects\\RedditTracker\\RedditTrackerAPI\\RedditTrackerAPI\\Models\\UpdateSubredditDataRequest.cs",
+              "RelativeToolTip": "RedditTrackerAPI\\Models\\UpdateSubredditDataRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T20:37:56.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Personal Projects\\RedditTracker\\RedditTrackerAPI\\RedditTrackerAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "RedditTrackerAPI\\appsettings.json",
+              "ToolTip": "C:\\Personal Projects\\RedditTracker\\RedditTrackerAPI\\RedditTrackerAPI\\appsettings.json",
+              "RelativeToolTip": "RedditTrackerAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-19T17:05:44.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SubredditController.cs",
+              "DocumentMoniker": "C:\\Personal Projects\\RedditTracker\\RedditTrackerAPI\\RedditTrackerAPI\\Controllers\\SubredditController.cs",
+              "RelativeDocumentMoniker": "RedditTrackerAPI\\Controllers\\SubredditController.cs",
+              "ToolTip": "C:\\Personal Projects\\RedditTracker\\RedditTrackerAPI\\RedditTrackerAPI\\Controllers\\SubredditController.cs",
+              "RelativeToolTip": "RedditTrackerAPI\\Controllers\\SubredditController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwC0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T14:16:08.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SubredditEntity.cs",
+              "DocumentMoniker": "C:\\Personal Projects\\RedditTracker\\RedditTrackerAPI\\RedditTrackerAPI.Data\\Entities\\SubredditEntity.cs",
+              "RelativeDocumentMoniker": "RedditTrackerAPI.Data\\Entities\\SubredditEntity.cs",
+              "ToolTip": "C:\\Personal Projects\\RedditTracker\\RedditTrackerAPI\\RedditTrackerAPI.Data\\Entities\\SubredditEntity.cs",
+              "RelativeToolTip": "RedditTrackerAPI.Data\\Entities\\SubredditEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T17:50:03.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISubredditRepository.cs",
+              "DocumentMoniker": "C:\\Personal Projects\\RedditTracker\\RedditTrackerAPI\\RedditTrackerAPI.Data\\Interfaces\\Repositories\\ISubredditRepository.cs",
+              "RelativeDocumentMoniker": "RedditTrackerAPI.Data\\Interfaces\\Repositories\\ISubredditRepository.cs",
+              "ToolTip": "C:\\Personal Projects\\RedditTracker\\RedditTrackerAPI\\RedditTrackerAPI.Data\\Interfaces\\Repositories\\ISubredditRepository.cs",
+              "RelativeToolTip": "RedditTrackerAPI.Data\\Interfaces\\Repositories\\ISubredditRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T18:06:22.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RedditService.cs",
+              "DocumentMoniker": "C:\\Personal Projects\\RedditTracker\\RedditTrackerAPI\\RedditTrackerAPI.Services\\Services\\RedditService.cs",
+              "RelativeDocumentMoniker": "RedditTrackerAPI.Services\\Services\\RedditService.cs",
+              "ToolTip": "C:\\Personal Projects\\RedditTracker\\RedditTrackerAPI\\RedditTrackerAPI.Services\\Services\\RedditService.cs",
+              "RelativeToolTip": "RedditTrackerAPI.Services\\Services\\RedditService.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAArwEYAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T15:03:41.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateNewSubredditRequest.cs",
+              "DocumentMoniker": "C:\\Personal Projects\\RedditTracker\\RedditTrackerAPI\\RedditTrackerAPI\\Models\\CreateNewSubredditRequest.cs",
+              "RelativeDocumentMoniker": "RedditTrackerAPI\\Models\\CreateNewSubredditRequest.cs",
+              "ToolTip": "C:\\Personal Projects\\RedditTracker\\RedditTrackerAPI\\RedditTrackerAPI\\Models\\CreateNewSubredditRequest.cs",
+              "RelativeToolTip": "RedditTrackerAPI\\Models\\CreateNewSubredditRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T19:54:24.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Personal Projects\\RedditTracker\\RedditTrackerAPI\\RedditTrackerAPI\\Program.cs",
+              "RelativeDocumentMoniker": "RedditTrackerAPI\\Program.cs",
+              "ToolTip": "C:\\Personal Projects\\RedditTracker\\RedditTrackerAPI\\RedditTrackerAPI\\Program.cs",
+              "RelativeToolTip": "RedditTrackerAPI\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T15:22:21.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Personal Projects\\RedditTracker\\RedditTrackerAPI\\RedditTrackerAPI.Data\\DTOs\\AppSettings.cs",
+              "RelativeDocumentMoniker": "RedditTrackerAPI.Data\\DTOs\\AppSettings.cs",
+              "ToolTip": "C:\\Personal Projects\\RedditTracker\\RedditTrackerAPI\\RedditTrackerAPI.Data\\DTOs\\AppSettings.cs",
+              "RelativeToolTip": "RedditTrackerAPI.Data\\DTOs\\AppSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T17:40:14.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IRedditRepository.cs",
+              "DocumentMoniker": "C:\\Personal Projects\\RedditTracker\\RedditTrackerAPI\\RedditTrackerAPI.Data\\Interfaces\\Repositories\\IRedditRepository.cs",
+              "RelativeDocumentMoniker": "RedditTrackerAPI.Data\\Interfaces\\Repositories\\IRedditRepository.cs",
+              "ToolTip": "C:\\Personal Projects\\RedditTracker\\RedditTrackerAPI\\RedditTrackerAPI.Data\\Interfaces\\Repositories\\IRedditRepository.cs",
+              "RelativeToolTip": "RedditTrackerAPI.Data\\Interfaces\\Repositories\\IRedditRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T15:02:46.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RedditTrackerAPI.Data",
+              "DocumentMoniker": "C:\\Personal Projects\\RedditTracker\\RedditTrackerAPI\\RedditTrackerAPI.Data\\RedditTrackerAPI.Data.csproj",
+              "RelativeDocumentMoniker": "RedditTrackerAPI.Data\\RedditTrackerAPI.Data.csproj",
+              "ToolTip": "C:\\Personal Projects\\RedditTracker\\RedditTrackerAPI\\RedditTrackerAPI.Data\\RedditTrackerAPI.Data.csproj",
+              "RelativeToolTip": "RedditTrackerAPI.Data\\RedditTrackerAPI.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-19T14:10:17.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 116,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRedditService.cs",
+              "DocumentMoniker": "C:\\Personal Projects\\RedditTracker\\RedditTrackerAPI\\RedditTrackerAPI.Data\\Interfaces\\Services\\IRedditService.cs",
+              "RelativeDocumentMoniker": "RedditTrackerAPI.Data\\Interfaces\\Services\\IRedditService.cs",
+              "ToolTip": "C:\\Personal Projects\\RedditTracker\\RedditTrackerAPI\\RedditTrackerAPI.Data\\Interfaces\\Services\\IRedditService.cs",
+              "RelativeToolTip": "RedditTrackerAPI.Data\\Interfaces\\Services\\IRedditService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T15:24:36.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SubredditRepository.cs",
+              "DocumentMoniker": "C:\\Personal Projects\\RedditTracker\\RedditTrackerAPI\\RedditTrackerAPI.Data.Sql\\Repositories\\SubredditRepository.cs",
+              "RelativeDocumentMoniker": "RedditTrackerAPI.Data.Sql\\Repositories\\SubredditRepository.cs",
+              "ToolTip": "C:\\Personal Projects\\RedditTracker\\RedditTrackerAPI\\RedditTrackerAPI.Data.Sql\\Repositories\\SubredditRepository.cs",
+              "RelativeToolTip": "RedditTrackerAPI.Data.Sql\\Repositories\\SubredditRepository.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAwwF0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T14:12:40.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnhandledExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Personal Projects\\RedditTracker\\RedditTrackerAPI\\RedditTrackerAPI\\Middleware\\UnhandledExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "RedditTrackerAPI\\Middleware\\UnhandledExceptionMiddleware.cs",
+              "ToolTip": "C:\\Personal Projects\\RedditTracker\\RedditTrackerAPI\\RedditTrackerAPI\\Middleware\\UnhandledExceptionMiddleware.cs",
+              "RelativeToolTip": "RedditTrackerAPI\\Middleware\\UnhandledExceptionMiddleware.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T20:11:16.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RedditAPIResponse.cs",
+              "DocumentMoniker": "C:\\Personal Projects\\RedditTracker\\RedditTrackerAPI\\RedditTrackerAPI.Data\\DTOs\\RedditAPIResponse.cs",
+              "RelativeDocumentMoniker": "RedditTrackerAPI.Data\\DTOs\\RedditAPIResponse.cs",
+              "ToolTip": "C:\\Personal Projects\\RedditTracker\\RedditTrackerAPI\\RedditTrackerAPI.Data\\DTOs\\RedditAPIResponse.cs",
+              "RelativeToolTip": "RedditTrackerAPI.Data\\DTOs\\RedditAPIResponse.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAMwBAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T14:14:03.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RedditRepository.cs",
+              "DocumentMoniker": "C:\\Personal Projects\\RedditTracker\\RedditTrackerAPI\\RedditTrackerAPI.Data.Web\\Repositories\\RedditRepository.cs",
+              "RelativeDocumentMoniker": "RedditTrackerAPI.Data.Web\\Repositories\\RedditRepository.cs",
+              "ToolTip": "C:\\Personal Projects\\RedditTracker\\RedditTrackerAPI\\RedditTrackerAPI.Data.Web\\Repositories\\RedditRepository.cs",
+              "RelativeToolTip": "RedditTrackerAPI.Data.Web\\Repositories\\RedditRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAIA3wA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T14:12:12.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
